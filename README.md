@@ -10,7 +10,7 @@ This project explores transactional data from 3,900 retail purchases to uncover 
 
 ## Tools & Technologies
 
-- **Python (Google Colab)** — Data cleaning, EDA, feature engineering
+- **Python (Jupyter Notebook)** — Data cleaning, EDA, feature engineering
 - **PostgreSQL** — Structured querying and business analysis
 - **Power BI** — Interactive dashboard and visual storytelling
 
